@@ -1,2 +1,2 @@
 # SRMF
-Drug response prediction
+The systematic translation of pharmacogenomics data into knowledge of therapeutic possibilities remain challenging. In this study, we adopted a similarity-regularized matrix factorization (SRMF) method to predict drug responses. Specifically, chemical structural similarity of drugs and gene expression profile similarity of cell lines were incorporated to the drug response matrix factorization model to improve the prediction accuracy.
